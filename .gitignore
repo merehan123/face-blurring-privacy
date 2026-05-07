@@ -220,3 +220,4 @@ __marimo__/
 
 data/*
 data/img_align_celeba/*
+data/processed_images/*
